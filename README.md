@@ -1,2 +1,1 @@
-Desiging a static web page of google
-Using : HTML5 and CSS
+Desiging a static web page of google using : HTML5 and CSS
